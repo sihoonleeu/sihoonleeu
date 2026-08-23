@@ -9,7 +9,7 @@ I teach robots manipulation from human videos.
 - **Sungkyunkwan University**, Korea — B.S. in Mechanical Engineering (coursework completed · degree Jan 2027)
 - **Robotics Innovatory, SKKU** — Undergraduate Researcher, Advisor: Prof. Hyouk Ryeol Choi (May 2025 – Present)
 
-### 🤖 Selected Work
+### 🤖 Projects
 
 - **[DexTransfer](https://sihoonleeu.github.io/dextransfer/)** (2025 – present)
   - Visibility-grounded transfer from human hand–object videos and teleoperation logs to robot demonstrations.
