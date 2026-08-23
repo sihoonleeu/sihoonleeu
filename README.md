@@ -1,5 +1,3 @@
-<img align="right" src="https://casval-deikun.github.io/assets/profile-photo.jpg" width="152" alt="Portrait of Sihoon Leeu" />
-
 ## Sihoon Leeu
 
 > [Website](https://casval-deikun.github.io/) &nbsp; · &nbsp; Dexterous robotics · Human-to-robot learning
