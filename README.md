@@ -1,6 +1,6 @@
 ## Sihoon Leeu
 
-> [Website](https://casval-deikun.github.io/) &nbsp; · &nbsp; Dexterous robotics · Human-to-robot learning
+> [Website](https://sihoonleeu.github.io/) &nbsp; · &nbsp; Dexterous robotics · Human-to-robot learning
 
 I teach robots manipulation from human videos.
 
@@ -11,11 +11,11 @@ I teach robots manipulation from human videos.
 
 ### 🤖 Selected Work
 
-- **[DexTransfer](https://casval-deikun.github.io/dextransfer/)** (2025 – present)
+- **[DexTransfer](https://sihoonleeu.github.io/dextransfer/)** (2025 – present)
   - Visibility-grounded transfer from human hand–object videos and teleoperation logs to robot demonstrations.
-- **[Grasp Reconstruction for Robot Hands](https://casval-deikun.github.io/human-to-robot/)** (Jan – May 2026)
-  - Foundation study: occluded-grasp recovery by render-and-compare, MANO-to-AIDIN retargeting, sampling-MPC physics refinement. [Case study](https://casval-deikun.github.io/human-to-robot/spider/) · [Visual archive](https://casval-deikun.github.io/human-to-robot/gallery/)
-- **[RAGTAL](https://casval-deikun.github.io/ragtal/)** (May – Oct 2025)
+- **[Grasp Reconstruction for Robot Hands](https://sihoonleeu.github.io/human-to-robot/)** (Jan – May 2026)
+  - Foundation study: occluded-grasp recovery by render-and-compare, MANO-to-AIDIN retargeting, sampling-MPC physics refinement. [Case study](https://sihoonleeu.github.io/human-to-robot/spider/) · [Visual archive](https://sihoonleeu.github.io/human-to-robot/gallery/)
+- **[RAGTAL](https://sihoonleeu.github.io/ragtal/)** (May – Oct 2025)
   - Low-cost leader–follower teleoperation for industrial robot learning. Grand Prize, 2025 Creative Innovation DNA Final.
 
 ### 🏆 Awards
