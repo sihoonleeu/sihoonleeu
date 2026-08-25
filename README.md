@@ -7,7 +7,7 @@ I teach robots manipulation from human videos.
 ### 🎓 Education
 
 - **Sungkyunkwan University**, Korea — B.S. in Mechanical Engineering (coursework completed · degree Jan 2027)
-- **Robotics Innovatory, SKKU** — Undergraduate Researcher, Advisor: Prof. Hyouk Ryeol Choi (May 2025 – Present)
+- **Robotics Innovatory, SKKU** (Prof. Hyouk Ryeol Choi's lab) — Undergraduate Researcher (May 2025 – Present)
 
 ### 🤖 Projects
 
