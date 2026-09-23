@@ -11,7 +11,7 @@ I teach robots manipulation from human videos.
 
 ### 🤖 Projects
 
-- **[DexTransfer](https://sihoonleeu.github.io/dextransfer/)** (2026 – present)
+- **[DexGround](https://sihoonleeu.github.io/dexground/)** (2026 – present)
   - Visibility-grounded transfer from human hand–object videos and teleoperation logs to robot demonstrations.
 - **[Grasp Reconstruction for Robot Hands](https://sihoonleeu.github.io/human-to-robot/)** (Jan – May 2026)
   - Foundation study: occluded-grasp recovery by render-and-compare, MANO-to-AIDIN retargeting, sampling-MPC physics refinement. [Case study](https://sihoonleeu.github.io/human-to-robot/spider/) · [Visual archive](https://sihoonleeu.github.io/human-to-robot/gallery/)
